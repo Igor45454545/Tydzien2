@@ -1,0 +1,31 @@
+﻿Console.Write("Imię: ");
+string imie = Console.ReadLine();
+Console.Write("Maksymalne punkty życia: ");
+int maxZycie = int.Parse(Console.ReadLine());
+Console.Write("Aktualne punkty życia: ");
+int zyciePrzedWalka = int.Parse(Console.ReadLine());
+Console.Write("Podstawowe obrażenia broni: ");
+int obrPodstawowe = int.Parse(Console.ReadLine());
+Console.Write("Premia do siły: ");
+int premiaSily = int.Parse(Console.ReadLine());
+Console.Write("Mnożnik ataku specjalnego: ");
+double atakSpecjalny = double.Parse(Console.ReadLine());
+Console.Write("Liczba wykonanych zwykłych ataków: ");
+int zadaneAtakiPodstawowe = int.Parse(Console.ReadLine());
+
+int obrAtakZwykly = obrPodstawowe + premiaSily;
+int obrAtakSpecjalny = (int)(obrAtakZwykly * atakSpecjalny);
+int laczneObr = obrAtakZwykly*zadaneAtakiPodstawowe + obrAtakSpecjalny;
+double procentZdrowia = (double)(100*zyciePrzedWalka)/maxZycie;
+bool zyje = zyciePrzedWalka > 0;
+bool maPelneZdrowie = zyciePrzedWalka == maxZycie;
+
+Console.WriteLine("========== RAPORT Z WALKI ==========");
+Console.WriteLine($"Bohater: {imie}");
+Console.WriteLine($"Zdrowie: {zyciePrzedWalka}/{maxZycie} ({procentZdrowia:F2}%)");
+Console.WriteLine($"Zwykły atak: {obrAtakZwykly}");
+Console.WriteLine($"Atak specjalny: {obrAtakSpecjalny}");
+Console.WriteLine($"Łączne zadane obrażenia: {laczneObr}");
+Console.WriteLine($"Zyje: {zyje}");
+Console.WriteLine($"Pełne zdrowie: {maPelneZdrowie}");
+Console.WriteLine("====================================");

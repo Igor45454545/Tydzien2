@@ -1,0 +1,14 @@
+Z:\git\Tydzień2\Zadanie5\bin\Debug\net10.0\Zadanie5.exe
+Z:\git\Tydzień2\Zadanie5\bin\Debug\net10.0\Zadanie5.deps.json
+Z:\git\Tydzień2\Zadanie5\bin\Debug\net10.0\Zadanie5.runtimeconfig.json
+Z:\git\Tydzień2\Zadanie5\bin\Debug\net10.0\Zadanie5.dll
+Z:\git\Tydzień2\Zadanie5\bin\Debug\net10.0\Zadanie5.pdb
+Z:\git\Tydzień2\Zadanie5\obj\Debug\net10.0\Zadanie5.GeneratedMSBuildEditorConfig.editorconfig
+Z:\git\Tydzień2\Zadanie5\obj\Debug\net10.0\Zadanie5.AssemblyInfoInputs.cache
+Z:\git\Tydzień2\Zadanie5\obj\Debug\net10.0\Zadanie5.AssemblyInfo.cs
+Z:\git\Tydzień2\Zadanie5\obj\Debug\net10.0\Zadanie5.csproj.CoreCompileInputs.cache
+Z:\git\Tydzień2\Zadanie5\obj\Debug\net10.0\Zadanie5.dll
+Z:\git\Tydzień2\Zadanie5\obj\Debug\net10.0\refint\Zadanie5.dll
+Z:\git\Tydzień2\Zadanie5\obj\Debug\net10.0\Zadanie5.pdb
+Z:\git\Tydzień2\Zadanie5\obj\Debug\net10.0\Zadanie5.genruntimeconfig.cache
+Z:\git\Tydzień2\Zadanie5\obj\Debug\net10.0\ref\Zadanie5.dll

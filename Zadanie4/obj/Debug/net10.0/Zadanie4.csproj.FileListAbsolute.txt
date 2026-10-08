@@ -1,0 +1,14 @@
+Z:\git\Tydzień2\Zadanie4\bin\Debug\net10.0\Zadanie4.exe
+Z:\git\Tydzień2\Zadanie4\bin\Debug\net10.0\Zadanie4.deps.json
+Z:\git\Tydzień2\Zadanie4\bin\Debug\net10.0\Zadanie4.runtimeconfig.json
+Z:\git\Tydzień2\Zadanie4\bin\Debug\net10.0\Zadanie4.dll
+Z:\git\Tydzień2\Zadanie4\bin\Debug\net10.0\Zadanie4.pdb
+Z:\git\Tydzień2\Zadanie4\obj\Debug\net10.0\Zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+Z:\git\Tydzień2\Zadanie4\obj\Debug\net10.0\Zadanie4.AssemblyInfoInputs.cache
+Z:\git\Tydzień2\Zadanie4\obj\Debug\net10.0\Zadanie4.AssemblyInfo.cs
+Z:\git\Tydzień2\Zadanie4\obj\Debug\net10.0\Zadanie4.csproj.CoreCompileInputs.cache
+Z:\git\Tydzień2\Zadanie4\obj\Debug\net10.0\Zadanie4.dll
+Z:\git\Tydzień2\Zadanie4\obj\Debug\net10.0\refint\Zadanie4.dll
+Z:\git\Tydzień2\Zadanie4\obj\Debug\net10.0\Zadanie4.pdb
+Z:\git\Tydzień2\Zadanie4\obj\Debug\net10.0\Zadanie4.genruntimeconfig.cache
+Z:\git\Tydzień2\Zadanie4\obj\Debug\net10.0\ref\Zadanie4.dll
